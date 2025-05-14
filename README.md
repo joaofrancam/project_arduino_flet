@@ -85,4 +85,4 @@ Este projeto é livre para uso educacional e pessoal.
 
 ## 🙋‍♂️ Autor
 
-Desenvolvido com ❤️ usando Flet + Python 3.
+Desenvolvido com João França e Daniel Felipe usando Flet + Python 3.
